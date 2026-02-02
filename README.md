@@ -1,5 +1,4 @@
 # Ex01 Portfolio
-## Date:14/03/22025
 Reg No: 212223040200
 ## AIM
 To create a Portfolio using HTML and CSS.
